@@ -1,0 +1,11 @@
+header div{
+    background-color: #F53E3E;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0;
+}
+header img {
+    border-radius: 170px;
+    border: solid 4px #6AAAFF;
+}
